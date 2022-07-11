@@ -1,0 +1,134 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+h3{
+    color: darkgoldenrod;
+    padding-bottom: 25px;
+}
+h4{
+    color: darkgoldenrod;
+}
+.first-part-left{
+    padding-top: 2px;
+    float: left;
+    margin-left: 80px;
+    margin-top: 100px;
+    width: 50%;
+}
+h1{
+    padding-bottom: 10px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.first-part-right{
+    padding-top: 5px;
+    margin-left: 20px;
+    margin-top: 100px;
+    padding-left: 60%;
+    text-align: center;
+    
+}
+.first-part-right{
+    position: fixed; 
+    
+}
+
+    
+     
+
+.para{
+    font-size: large;
+    margin-bottom: 57px;
+    letter-spacing: 0;
+    line-height: 2;
+}
+.second-part{
+    margin-left: 80px;
+    width: 50%;
+}
+
+
+
+.table{
+    text-align: left;
+    margin-left: 80px;
+    
+}
+
+th{
+    padding: 10px;
+}
+
+.about{
+    float: left;
+}
+
+.button{
+    padding: 120px 100px;
+    
+}
+
+.link-button{
+   text-decoration: none;
+   padding: 10px 20px;
+   border-radius: 10px;
+   background-image: linear-gradient(#ff99cc, #33ccff );
+}
+
+.ex{
+        padding-top: 50px;
+        margin-left: 80px;
+        width: 50%;
+    }
+
+.aim-experience{
+   
+        margin-left: 80px;
+        width: 50%;
+        box-shadow: 10px 10px 40px grey;
+        border-radius: 5px;
+        padding: 10px 20px;
+        background-color: white;
+        margin-bottom: 80px;
+
+}
+
+.experience{
+        margin-left: 80px;
+        width: 50%;
+        box-shadow: 10px 10px 40px grey;
+        border-radius: 5px;
+        padding: 10px 20px;
+        background-color: white;
+        margin-bottom: 80px;
+}
+.social{
+    margin-left: 80px;
+    width: 50%;
+    box-shadow: 10px 10px 40px grey;
+        border-radius: 5px;
+        padding: 10px 20px;
+        background-color: white;
+        margin-bottom: 80px;
+}
+
+.fa {
+    
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
